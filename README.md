@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+### I write code in Javascript and C 
 <!--
 **pa-sh-tet/pa-sh-tet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
