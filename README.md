@@ -1,17 +1,24 @@
-## Hi there 👋
+## Hey 👋
 
-### I write code in Javascript and C💻
+### My name is Pavel and I write code in Typescript and C👨‍💻
+
+## Currently I:
+
+- 🌱 Improving my programming skills at School 21 from the Sber
+- 📚 Studying at the Kazan National Research Technological University
+- 🎓 Сompleted courses from Yandex Practicum
+- ⚡ Working on exciting new projects
+
+## Сontacts
+
+<a href = "https://t.me/alta_pov">
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Teleram badge"/>
+</a>
+
+## Language and Tools
+
+
+
 <!--
-**pa-sh-tet/pa-sh-tet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📚📑🏫🎓🧑‍🏫👨‍💻⌨️💻📸✅☑️🌱👯🔥🦾🏀💫✨🏆🏅🌅🔋🙋‍♂️⚡💬
 -->
