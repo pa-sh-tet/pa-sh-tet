@@ -1,5 +1,5 @@
 ## Hey 👋
-
+<h1 align="center">Hi there, I'm Daniil</a>
 ### My name is Pavel and I write code in Typescript and C👨‍💻
 
 ## Currently I:
@@ -9,13 +9,15 @@
 - 🎓 Сompleted courses from Yandex Practicum
 - ⚡ Working on exciting new projects
 
+## Language and Tools
+
+
+
 ## Сontacts
 
 <a href = "https://t.me/alta_pov">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Teleram badge"/>
 </a>
-
-## Language and Tools
 
 
 
