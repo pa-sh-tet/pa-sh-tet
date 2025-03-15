@@ -4,7 +4,7 @@
 
 ## Currently I:
 
-- 🌱 Improving my programming skills at School 21 from the Sber
+- 🌱 Improving my programming skills at School 21 by Sber
 - 📚 Studying at the Kazan National Research Technological University
 - 🎓 Сompleted courses from Yandex Practicum
 - ⚡ Working on exciting new projects
