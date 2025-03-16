@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Pavel👋</h1>
 <h3 align="center">Computer science student, writing code in Typescript and C👨‍💻</h3>
 
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
--->
-
 ## Currently I:
 
 - 🌱 Improving my programming skills at School 21 by Sber
@@ -51,11 +47,23 @@
 
 ## Other
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-sh-tet)](https://github.com/pa-sh-tet/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-sh-tet&layout=compact)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/pa-sh-tet/github-readme-quotes)
+
 <!--
+### Projects I've worked on
+| Project name | Description | Tools |
+|-|-|-|
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pa-sh-tet)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-sh-tet&layout=donut)](https://github.com/pa-sh-tet/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-sh-tet)](https://github.com/pa-sh-tet/github-readme-stats)
 -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 📚📑🏫🎓🧑‍🏫👨‍💻⌨️💻📸✅☑️🌱👯🔥🦾🏀💫✨🏆🏅🌅🔋🙋‍♂️⚡💬
