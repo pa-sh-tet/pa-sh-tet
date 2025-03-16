@@ -49,9 +49,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-sh-tet&layout=compact)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/pa-sh-tet/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord)](https://github.com/pa-sh-tet/github-readme-quotes)
 
 <!--
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/pa-sh-tet/github-readme-quotes)
+
 ### Projects I've worked on
 | Project name | Description | Tools |
 |-|-|-|
