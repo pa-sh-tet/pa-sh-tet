@@ -44,6 +44,9 @@
 <a href = "https://t.me/alta_pov">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Teleram badge"/>
 </a>
+<a href = "https://www.linkedin.com/in/pavel-altapov-963656365/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
+</a>
 
 ## Other
 
